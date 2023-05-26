@@ -1,0 +1,7 @@
+.titulo {
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-weight: bold;
+}
